@@ -1,4 +1,2 @@
-Aula de Git 
-
-
-Feitas alterações
+Aula Git
+Git Clone
